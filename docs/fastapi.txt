@@ -1,0 +1,5 @@
+FastAPI is a Python web framework for building APIs.
+FastAPI uses Python type hints for request validation.
+FastAPI automatically generates interactive API documentation.
+FastAPI applications can run using an ASGI server such as Uvicorn.
+FastAPI is commonly used to build REST APIs and backend services.

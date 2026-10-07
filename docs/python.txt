@@ -1,0 +1,5 @@
+Python is a high-level programming language.
+Python supports variables, functions, lists, dictionaries, and classes.
+Python is commonly used for automation, web development, data analysis, and artificial intelligence.
+Python uses indentation to define blocks of code.
+Python libraries can provide additional functionality for applications.

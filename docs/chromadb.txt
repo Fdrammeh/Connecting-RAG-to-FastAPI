@@ -1,0 +1,5 @@
+ChromaDB is a vector database commonly used in AI applications.
+ChromaDB can store documents and embeddings.
+ChromaDB can retrieve documents based on similarity.
+Semantic search uses embeddings to find information that is meaningfully related to a user's question.
+ChromaDB can be used as the retrieval component of a RAG application.
